@@ -21,10 +21,6 @@ Contact Page
 # Deployment Process
 <img width="1117" alt="Ankit The Bakery 1" src="https://user-images.githubusercontent.com/108232453/184525725-e3381527-331c-44a6-9cf1-b6155afeb967.png">
 <img width="1120" alt="Ankit TheBakery 2" src="https://user-images.githubusercontent.com/108232453/184525727-f743f10c-0c50-4852-a9d7-eae2f36981fb.png">
-<img width="1120" alt="Ankit The Bakery3" src="https://user-image<img width="1120" alt="Ankit TheBakery 2" src="https://user-images.githubusercontent.com/108232453/184525730-ace1b58f-e523-47a8-937e-fa877d32d60e.png">
-<img<img width="1120" alt="Ankit The Bakery3" src="https://user-images.githubusercontent.com/108232453/184525737-d49b8749-f914-4640-82cd-030d1592fa49.png">
-<img width="1117" alt="Ankit The Bakery 1" src="https://user-images.githubusercontent.com/108232453/184525739-fd72b0c6-310c-4c29-a681-a4e3b1b97590.png">
-<img width="1120" alt="Ankit TheBakery 2" src="https://user-images.githubusercontent.com/108232453/184525740-9ba4543e-9e6b-47d1-8caf-ef04e1c9767b.png">
- width="1120" alt="Ankit The Bakery3" src="https://user-images.githubusercontent.com/108232453/184525731-f78b5e80-f1fd-47db-8285-1c5f5664fb32.png">
-<img width="1117" alt="Ankit The Bakery 1" src="https://user-images.githubusercontent.com/108232453/184525732-26e8e3e9-1c05-430e-8a0b-38bd7a72f071.png">
-s.githubusercontent.com/108232453/184525728-7a2c1123-6707-49c7-abb6-6e3c943052be.png">
+<img width="1120" alt="Ankit The Bakery3" src="https://user-images.githubusercontent.com/108232453/184525781-a9be023a-ed9a-4174-879c-912fc7785aeb.png">
+
+
